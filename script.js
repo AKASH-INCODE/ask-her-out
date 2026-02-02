@@ -1,28 +1,12 @@
-// Array of cute messages
+// Array of cute messages for index page (only 2)
 const cuteMessages = [
   {
-    main: "Please think again! 🙄",
-    sub: "itni jaldi matt bolo na maan jao😥"
+    main: "will you be my valentine, Sayantika? 🤗",
+    sub: "if you say yes ... I'll be your valentine 💖"
   },
   {
-    main: "Ek aur baar Soch lo! 😣",
-    sub: "kyu aisa kar rhi ho sahi nhi hai😣"
-  },
-  {
-    main: "Man jao na yaar! Kitna bhav khati ho😭",
-    sub: "bhut glt baat hai yrr marunga😭"
-  },
-  {
-    main: "Are you sure? 🥺",
-    sub: "Mujhe toh yakin nhi hai 💔"
-  },
-  {
-    main: "Last chance! 🙏",
-    sub: "Please say yes, I'm begging you 😢"
-  },
-  {
-    main: "Don't do this to me 😢",
-    sub: "Mera dil toot jayega 💔"
+    main: "will you be my valentine, Sayantika? 🤗",
+    sub: "if you say yes ... I'll be your valentine 💖😭"
   }
 ];
 
