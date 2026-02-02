@@ -38,6 +38,11 @@ function moveRandomEl(elm) {
 const moveRandom = document.querySelector("#move-random");
 
 if (moveRandom) {
+  moveRandom.addEventListener("click", function (e) {
+    e.preventDefault();
+    moveRandomEl(e.target);
+  });
+  
   moveRandom.addEventListener("mouseenter", function (e) {
     moveRandomEl(e.target);
   });
